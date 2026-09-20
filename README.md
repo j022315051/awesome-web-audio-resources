@@ -27,7 +27,8 @@ The Web Audio API provides a powerful and versatile system for controlling audio
 - [W3C Web MIDI API](https://webaudio.github.io/web-midi-api/#getting-access-to-the-midi-system) - Official HTML5 compliant spec written and updated by the W3C. 
 - [Web Audio Weekly](http://www.webaudioweekly.com/) - Weekly newsletter with topics surrounding anything related to audio creation on the web.
 - [How Generative Music Works](https://teropa.info/loop/) - Great interactive presentation digging into experimental generative audio systems developed by Steve Reich, John Cage and Brian Eno and recreating them with the Web Audio API. 
-- [Web Audio Modules](http://www.webaudiomodules.org/wamsynths/) - WAMs or Web Audio Modules are the equivalent of VST plugins for web browsers. 
+- [Web Audio Modules](http://www.webaudiomodules.org/wamsynths/) - WAMs or Web Audio Modules are the equivalent of VST plugins for web browsers.
+- [Browser Music Analysis Kit](https://github.com/j022315051/browser-music-analysis-kit) - Dependency-free JavaScript helpers for browser-side pitch, key, Camelot, and timestamped chord analysis.
 
 ## Books 
 
